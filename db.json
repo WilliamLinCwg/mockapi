@@ -6,17 +6,7 @@
     "items": [
       {
             "id": 1,
-            "title": "課程1標題",
-            "view_count": 1000,
-            "price": 2000,
-            "sell_price": 1000,
-            "type": 1,
-            "minutes":100,
-            "intro_url":"",
-            "description":"description1",
-            "image_url":"https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-            "sale": true,
-            "start": true
+            "title": "課程1標題"
         }
     ]
   }
