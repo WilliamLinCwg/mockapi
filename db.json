@@ -23,7 +23,8 @@
         "description": "description1",
         "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
         "sale": true,
-        "start": true
+        "start": true,
+        "status": true
       },
       {
         "id": 2,
@@ -44,7 +45,8 @@
         "description": "description2",
         "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
         "sale": true,
-        "start": true
+        "start": true,
+        "status": true
       }
     ]
   }
