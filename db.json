@@ -1,12 +1,11 @@
 {
-  "course-set": [
+  "posts": [
     {
       "id": 1,
-      "title": "課程1標題"
-    },
-    {
-      "id": 2,
-      "title": "課程2標題"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
