@@ -24,27 +24,6 @@
             "image_url":"https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
             "sale": true,
             "start": true
-        },
-        {
-            "id": 2,
-            "lecturer": {
-                "id": 1,
-                "name": "講師1姓名",
-                "title": "講師1頭銜",
-                "description": "講師1簡述",
-                "image_url":"https://cdn.cheers.com.tw/lecturer/201811/lecturer-5bda6f6ff3833.jpg"
-            },
-            "title": "課程1標題",
-            "view_count": 1000,
-            "price": 4000,
-            "sell_price": 3000,
-            "type": 2,
-            "minutes":10,
-            "media_url":"",
-            "description":"description2",
-            "image_url":"https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-            "sale": true,
-            "start": true
         }
     ]
   }
