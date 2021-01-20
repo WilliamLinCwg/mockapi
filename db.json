@@ -1,0 +1,17 @@
+{
+  "course-set": {
+    "success": true,
+    "code": "0000",
+    "msg": "success",
+    "items": [
+      {
+        "id": 1,
+        "title": "課程1標題"
+      },
+      {
+        "id": 2,
+        "title": "課程2標題"
+      }
+    ]
+  }
+}
