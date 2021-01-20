@@ -6,13 +6,6 @@
     "items": [
       {
             "id": 1,
-            "lecturer": {
-                "id": 1,
-                "name": "講師1姓名",
-                "title": "講師1頭銜",
-                "description": "講師1簡述",
-                "image_url":"https://cdn.cheers.com.tw/lecturer/201811/lecturer-5bda6f6ff3833.jpg"
-            },
             "title": "課程1標題",
             "view_count": 1000,
             "price": 2000,
