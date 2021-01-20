@@ -16,8 +16,8 @@
             "title": "課程1標題",
             "view_count": 1000,
             "price": 2000,
-            "sell_price": 1000
-            "type": 1
+            "sell_price": 1000,
+            "type": 1,
             "minutes":100,
             "intro_url":"",
             "description":"description1",
