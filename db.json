@@ -1,227 +1,79 @@
 {
-  "a":{
-      "success": true,
-      "code": "0000",
-      "msg": "success",
-      "current_page":1,
-      "items": [
-        {
+  "a": {
+    "success": true,
+    "code": "0000",
+    "msg": "success",
+    "current_page": 1,
+    "items": [
+      {
+        "id": 1,
+        "lecturer": {
           "id": 1,
-          "lecturer": {
-            "id": 1,
-            "name": "講師1姓名",
-            "title": "講師1頭銜",
-            "description": "講師1簡述",
-            "image_url": "https://cdn.cheers.com.tw/lecturer/202101/lecturer-600170786438d.jpg"
-          },
-          "title": "課程1標題",
-          "view_count": 1000,
-          "price": 2000,
-          "sell_price": 1000,
-          "type": 1,
-          "minutes": 100,
-          "intro_url": "",
-          "description": "description1",
-          "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-          "sale": true,
-          "start": true,
-          "status": true
+          "name": "講師1姓名",
+          "title": "講師1頭銜",
+          "description": "講師1簡述",
+          "image_url": "https://cdn.cheers.com.tw/lecturer/202101/lecturer-600170786438d.jpg"
         },
-        {
-          "id": 2,
-          "lecturer": {
-            "id": 1,
-            "name": "講師1姓名",
-            "title": "講師1頭銜",
-            "description": "講師1簡述",
-            "image_url": "https://cdn.cheers.com.tw/lecturer/202009/lecturer-5f73d5daa7e27.jpg"
-          },
-          "title": "課程2標題",
-          "view_count": 1000,
-          "price": 4000,
-          "sell_price": 3000,
-          "type": 2,
-          "minutes": 10,
-          "media_url": "",
-          "description": "description2",
-          "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-          "sale": true,
-          "start": true,
-          "status": true
+        "title": "課程1標題",
+        "view_count": 1000,
+        "price": 2000,
+        "sell_price": 1000,
+        "type": 1,
+        "minutes": 100,
+        "intro_url": "",
+        "description": "description1",
+        "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
+        "sale": true,
+        "start": true,
+        "status": true
+      },
+      {
+        "id": 2,
+        "lecturer": {
+          "id": 1,
+          "name": "講師1姓名",
+          "title": "講師1頭銜",
+          "description": "講師1簡述",
+          "image_url": "https://cdn.cheers.com.tw/lecturer/202009/lecturer-5f73d5daa7e27.jpg"
         },
-        {
-          "id": 3,
-          "lecturer": {
-            "id": 1,
-            "name": "講師1姓名",
-            "title": "講師1頭銜",
-            "description": "講師1簡述",
-            "image_url": "https://cdn.cheers.com.tw/lecturer/202009/lecturer-5f588e19908e5.jpg"
-          },
-          "title": "課程2標題",
-          "view_count": 1000,
-          "price": 4000,
-          "sell_price": 3000,
-          "type": 2,
-          "minutes": 10,
-          "media_url": "",
-          "description": "description2",
-          "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-          "sale": true,
-          "start": true,
-          "status": true
-        }
-      ]
-    },
+        "title": "課程2標題",
+        "view_count": 1000,
+        "price": 4000,
+        "sell_price": 3000,
+        "type": 2,
+        "minutes": 10,
+        "media_url": "",
+        "description": "description2",
+        "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
+        "sale": true,
+        "start": true,
+        "status": true
+      },
+      {
+        "id": 3,
+        "lecturer": {
+          "id": 1,
+          "name": "講師1姓名",
+          "title": "講師1頭銜",
+          "description": "講師1簡述",
+          "image_url": "https://cdn.cheers.com.tw/lecturer/202009/lecturer-5f588e19908e5.jpg"
+        },
+        "title": "課程2標題",
+        "view_count": 1000,
+        "price": 4000,
+        "sell_price": 3000,
+        "type": 2,
+        "minutes": 10,
+        "media_url": "",
+        "description": "description2",
+        "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
+        "sale": true,
+        "start": true,
+        "status": true
+      }
+    ]
+  },
   "course-set": {
-    "1": {
-      "success": true,
-      "code": "0000",
-      "msg": "success",
-      "current_page":1,
-      "items": [
-        {
-          "id": 1,
-          "lecturer": {
-            "id": 1,
-            "name": "講師1姓名",
-            "title": "講師1頭銜",
-            "description": "講師1簡述",
-            "image_url": "https://cdn.cheers.com.tw/lecturer/202101/lecturer-600170786438d.jpg"
-          },
-          "title": "課程1標題",
-          "view_count": 1000,
-          "price": 2000,
-          "sell_price": 1000,
-          "type": 1,
-          "minutes": 100,
-          "intro_url": "",
-          "description": "description1",
-          "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-          "sale": true,
-          "start": true,
-          "status": true
-        },
-        {
-          "id": 2,
-          "lecturer": {
-            "id": 1,
-            "name": "講師1姓名",
-            "title": "講師1頭銜",
-            "description": "講師1簡述",
-            "image_url": "https://cdn.cheers.com.tw/lecturer/202009/lecturer-5f73d5daa7e27.jpg"
-          },
-          "title": "課程2標題",
-          "view_count": 1000,
-          "price": 4000,
-          "sell_price": 3000,
-          "type": 2,
-          "minutes": 10,
-          "media_url": "",
-          "description": "description2",
-          "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-          "sale": true,
-          "start": true,
-          "status": true
-        },
-        {
-          "id": 3,
-          "lecturer": {
-            "id": 1,
-            "name": "講師1姓名",
-            "title": "講師1頭銜",
-            "description": "講師1簡述",
-            "image_url": "https://cdn.cheers.com.tw/lecturer/202009/lecturer-5f588e19908e5.jpg"
-          },
-          "title": "課程2標題",
-          "view_count": 1000,
-          "price": 4000,
-          "sell_price": 3000,
-          "type": 2,
-          "minutes": 10,
-          "media_url": "",
-          "description": "description2",
-          "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-          "sale": true,
-          "start": true,
-          "status": true
-        }
-      ]
-    },
-    "2": {
-      "success": true,
-      "code": "0000",
-      "msg": "success",
-      "current_page":2,
-      "items": [
-        {
-          "id": 4,
-          "lecturer": {
-            "id": 1,
-            "name": "講師1姓名",
-            "title": "講師1頭銜",
-            "description": "講師1簡述",
-            "image_url": "https://cdn.cheers.com.tw/lecturer/202006/lecturer-5ef2e3e1ed74a.jpg"
-          },
-          "title": "課程2標題",
-          "view_count": 1000,
-          "price": 4000,
-          "sell_price": 3000,
-          "type": 2,
-          "minutes": 10,
-          "media_url": "",
-          "description": "description2",
-          "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-          "sale": true,
-          "start": true,
-          "status": true
-        },
-        {
-          "id": 5,
-          "lecturer": {
-            "id": 1,
-            "name": "講師1姓名",
-            "title": "講師1頭銜",
-            "description": "講師1簡述",
-            "image_url": "https://cdn.cheers.com.tw/lecturer/202004/lecturer-5e8d2060a8dae.jpg"
-          },
-          "title": "課程2標題",
-          "view_count": 1000,
-          "price": 4000,
-          "sell_price": 3000,
-          "type": 2,
-          "minutes": 10,
-          "media_url": "",
-          "description": "description2",
-          "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-          "sale": true,
-          "start": true,
-          "status": true
-        },
-        {
-          "id": 6,
-          "lecturer": {
-            "id": 1,
-            "name": "講師1姓名",
-            "title": "講師1頭銜",
-            "description": "講師1簡述",
-            "image_url": "https://cdn.cheers.com.tw/lecturer/202003/lecturer-5e742192955e4.jpg"
-          },
-          "title": "課程2標題",
-          "view_count": 1000,
-          "price": 4000,
-          "sell_price": 3000,
-          "type": 2,
-          "minutes": 10,
-          "media_url": "",
-          "description": "description2",
-          "image_url": "https://cdn.cheers.com.tw/course-set/202101/course-set-6001134e94dd1.jpg",
-          "sale": true,
-          "start": true,
-          "status": true
-        }
-      ]
-    },
     "success": true,
     "code": "0000",
     "msg": "success",
